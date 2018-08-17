@@ -1,0 +1,17 @@
+body{
+  background-color: #1D1D1D;
+  background-image: url('https://stmed.net/sites/default/files/south-park-wallpapers-31669-6925156.jpg');
+  background-size:cover;
+  background-position-y: -40px;
+}
+
+.tap-titulo{
+  font-size: 10em !important;
+    font-weight: 100;
+      margin-bottom: 0px !important;
+}
+
+.tap-subtitulo{
+  margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
