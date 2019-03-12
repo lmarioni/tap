@@ -1,2 +1,2 @@
 # tap
-App para calcular el tamaño ajustado del pene (South Park)
+App para calcular el tamaño ajustado del p*@# (South Park)
